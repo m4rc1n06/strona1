@@ -1,0 +1,12 @@
+@font-face {
+    font-family: satan;
+    src: url(satan.ttf);
+  }
+  
+body {
+    font-family: satan;
+    font-size: 50pt;
+    text-align: center;
+    background-color: black;
+    color: red;
+  }
